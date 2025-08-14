@@ -2,7 +2,7 @@
 
 # EVA-ODADD
 
-# A Novel Lightweight Network based on Hybrid Architecture and Deformable Decoupled Head
+# An Efficient Object Detection Algorithm with Dynamic-Sampling Decoupled-Head for Embedded Vision Applications
 
 The EVA-ODADD is a target detection model we proposed based on a lightweight hybrid architecture and an efficient deformable decoupled head. It has been validated on the VOC PASCAL (2007+2012) and MS COCO (2014) datasets. With little change in the number of parameters and computational complexity, its detection accuracy in all aspects is significantly higher than that of the baseline YOLOv5n model.
 
